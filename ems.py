@@ -1,12 +1,9 @@
 from customtkinter import *
 from PIL import Image
 from tkinter import ttk,messagebox
-import database
 
-#Functions
-#def add_employee():
-    #if idEntry.get()=='' or phEntry.get()=='' or nameEntry.get()=='' or salaryEntry()=='':
-        #messagebox.showerror('ERROR','All Fields Are Required')
+
+
 
 
 window=CTk()
